@@ -5,4 +5,4 @@ Contains the data needed for the case study.
 # CODE Folder
 Contains a code file to guide the user on the task.
 # DOCUMENTS Folder
-Contains supplementary materials to provide more insight on the task and help the replicator understand the data through a data appendix and the topic through articles.
+Contains supplementary materials to provide more insight on the task.
